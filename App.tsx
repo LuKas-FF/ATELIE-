@@ -1,7 +1,7 @@
 
 import React, { useState, useEffect } from 'react';
 import { User, Product, Transaction, UserRole, RawMaterialEntry, Store, AppConfig } from './types';
-import Sidebar from './components/Sidebar';
+import Sidebar from "./components/Sidebar";
 import Dashboard from './components/Dashboard';
 import InventoryTable from './components/InventoryTable';
 import Login from './components/Login';
